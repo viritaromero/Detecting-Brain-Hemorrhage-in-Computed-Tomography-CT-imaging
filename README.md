@@ -9,7 +9,7 @@ Deep Learning applied in healthcare can contribute to saving time between medica
 
 Although deep learning can help to detect anomalies in medical imaging, finding valuable datasets and pre-processing this data could be painful.
 
-In this post, I will diagnose brain hemorrhage by using deep learning, Computed Tomographies (CT) of the brain and my favorite deep learning framework: PyTorch.
+In this project, I will diagnose brain hemorrhage by using deep learning, Computed Tomographies (CT) of the brain and my favorite deep learning framework: PyTorch.
 
 # What’s a Computed Tomography of the brain?
 
@@ -27,7 +27,6 @@ The dataset contains 100 normal head CT slices and 100 with hemorrhage. I won’
 You can find the dataset here:
 
 https://www.kaggle.com/felipekitamura/head-ct-hemorrhage
-
 
 
 # Data Augmentations
