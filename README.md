@@ -43,7 +43,8 @@ Some data augmentations examples are: adding noise or applying data transformati
 
 
 By augmenting your dataset, you can achieve excellent results with a small amount of data. I did a little research about data augmentations used specifically for medical imaging and it happens that when you add contrast to the images, model achieves a better accuracy. A variety of augmentation strategies can be used to get better results.
-Training the model
+
+# Training the model
 
 I chose again the pre-trained model Resnet-152. As done in past projects, I only trained the last fully-connected layer of Resnet-152.
 
